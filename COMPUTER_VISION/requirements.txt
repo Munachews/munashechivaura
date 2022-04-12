@@ -1,0 +1,10 @@
+Flask
+keras
+matplotlib
+numpy
+opencv-python-headless
+pandas
+scikit_image
+tensorflow-cpu
+Werkzeug
+gunicorn
